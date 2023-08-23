@@ -35,7 +35,7 @@ function App() {
 
               <strong className="titulo">{item.titulo}</strong>
 
-              <img className='capa' src={item.capa} alt={item.titulo}/>
+              <img className="capa" src={item.capa} alt={item.titulo}/>
 
               <p className="subtitulo">
                 {item.subtitulo}
